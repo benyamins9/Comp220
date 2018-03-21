@@ -1,3 +1,3 @@
 # Comp220
 
-This incloude all Comp220 (capilanoU) Labs and Assignments 
+This include all Comp220 (CapilanoU) Labs and Assignments
